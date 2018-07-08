@@ -1,0 +1,14 @@
+
+# 
+#    apk add git && \
+#    apk add openssh && \
+#    apk add vim && \
+#    apk add bash
+
+# Test::Time
+# POSIX::strftime::Compiler
+
+
+#ENTRYPOINT ["/bin/bash"]
+
+#    apk add zip  zlib zlib-dev && 

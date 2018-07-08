@@ -7,7 +7,7 @@ RUN apk update && \
     apk add g++ && \
     wget https://cpanmin.us/ && \
     perl index.html App::cpanminus && \
-#    cpanm Dancer2 && \
+    cpanm Dancer2 && \
     rm index.html
 
 WORKDIR /root
